@@ -1,8 +1,8 @@
-# **Looterra**
+a# **Looterra**
 
 Looterra is a blockchain based NFT game. Mint a unique planet with random on-chain resource nodes.
 
-[How to check your planet's resource nodes](#how-to-check-your-planet's-resource-nodes)
+[How to check your planet's resource nodes](#how-to-check-resource-nodes)
 
 ## **How to mint**
 
@@ -62,4 +62,19 @@ Fill out the fields and then press “Write”.
 
 <p>&nbsp;</p>
 
-## **How to Check your planet's resource nodes**
+## **How to check resource nodes**
+
+Go to the Looterra contract on etherscan:
+[Looterra Contract](https://etherscan.io/address/0xd41a65b75ba49df1fc5c7c42dbd1cb2d43530368)
+
+### **Step 1.**
+
+Click the “Contract” tab followed by the “Read Contract” sub tab.
+
+![Read Contract](https://github.com/Looterra/Tutorial/blob/main/img/readContract.PNG?raw=true)
+
+## **Step 2.**
+
+Click the “getAllResourceNodes” function, then type in the tokenId of your planet. Click "Query" and your nodes will be displayed.
+
+![Read Contract](https://github.com/Looterra/Tutorial/blob/main/img/ViewNodes.PNG?raw=true)
