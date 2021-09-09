@@ -23,7 +23,7 @@ Click the "Contract" tab and then the "Write Contract" sub-tab.
 
 Click "Connect to Web3" and connect your metamask wallet.
 
-![Connect Web3](./img/connectMetamask.png)
+![Connect Web3](https://github.com/Looterra/Tutorials/blob/main/img/connectMetamask.PNG?raw=true)
 
 ---
 
@@ -36,7 +36,7 @@ There are two types of minting available. One for the public and one for Loot NF
 **Public mint:**
 Choose a tokenId between 8001-9900 enter _.05 eth_ Fill out the fields and then press “Write”.
 
-![Public Mint](./img/publicMint.png)
+![Public Mint](https://github.com/Looterra/Tutorials/blob/main/img/publicMint.PNG?raw=true)
 
 - **Warning:**
   If transaction fee is very high it means someone has already minted that token, try another tokenId. Also I've had a report that using a metamask account that is linked with a hardware wallet is causing issues. So I recommend using a normal metamask account.
@@ -48,12 +48,10 @@ Choose a tokenId between 8001-9900 enter _.05 eth_ Fill out the fields and then 
 **Loot Holder Mint:**
 Enter your tokenId and amount of _.025 eth_. Fill out the fields and then press “Write”.
 
-![loot Owner Mint](./img/lootOwnerMint.png)
-
----
+## ![loot Owner Mint](https://github.com/Looterra/Tutorials/blob/main/img/lootOwnerMint.PNG?raw=true)
 
 **Loot Holder Multi Mint:**
 Enter your tokenId and _0.025/eth_ per Id.
 Fill out the fields and then press “Write”.
 
-![Multi Mint](./img/lootOwnerMultiMint.png)
+![Multi Mint](https://github.com/Looterra/Tutorials/blob/main/img/lootOwnerMultiMint.PNG?raw=true)
