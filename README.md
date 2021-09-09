@@ -34,7 +34,7 @@ There are two types of minting available. One for the public and one for Loot NF
 <p>&nbsp;</p>
 
 **Public mint:**
-Choose a tokenId between 8001-9900 enter _.05 eth_ Fill out the fields and then press “Write”.
+Choose a tokenId between 8001-9900 enter _.05 eth_. Fill out the fields and then press “Write”.
 
 ![Public Mint](https://github.com/Looterra/Tutorials/blob/main/img/publicMint.PNG?raw=true)
 
