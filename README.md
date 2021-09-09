@@ -15,7 +15,7 @@ Go to the Looterra contract on etherscan:
 
 Click the "Contract" tab and then the "Write Contract" sub-tab.
 
-![Contract Tab](./img/ContractTabandSubContract.png)
+![Contract Tab](https://github.com/Looterra/Tutorials/blob/main/img/ContractTabandSubContract.PNG?raw=true)
 
 ---
 
