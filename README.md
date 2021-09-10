@@ -6,12 +6,12 @@ Looterra is a blockchain based NFT game. Mint a graphically unique planet with r
 - Every node has a quantity modifier including: Rich, Abundant, Scarce, Poor and Common.
 
   | Roll Chance |     |     |
-  | ----------- | --- | --- | --- |
+  | ----------- | --- | --- |
   | Rich        | =   | 5%  |
   | Abundant    | =   | 10% |
   | Common      | =   | 40% |
   | Poor        | =   | 30% |
-  | Scarce      | =   | 15% |     |
+  | Scarce      | =   | 15% |
 
 * Quantity modifier affects the speed of extraction
 
