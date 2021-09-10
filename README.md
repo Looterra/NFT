@@ -82,7 +82,7 @@ Fill out the fields and then press “Write”.
 
 # **View your planet on OpenSea**
 
-To view your minted planet head over to the [Looterra](https://opensea.io/collection/lootproject) OpenSea page.
+To view your minted planet head over to the [Looterra](https://opensea.io/collection/looterra) OpenSea page.
 
 - This may take up to 30mins.
 
