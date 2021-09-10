@@ -33,11 +33,13 @@ Click "Connect to Web3" and connect your metamask wallet.
 
 There are two types of minting available. One for the public and one for Loot NFT holders (single/multi).
 
+- Loot holder = You own a nft from this collection [Loot (for adventurers)](https://opensea.io/collection/lootproject)
+
 <p>&nbsp;</p>
 
-**Public mint:**
+**Public mint:**(recommended)
 
-- Choose a tokenId between 8001-9900 _ Enter _.05 eth*. Fill out the fields and then press “Write”. *ignore
+- Choose a tokenId between **8001-9900** _ Enter _.05 eth*. Fill out the fields and then press “Write”. *ignore
 
 - **Warning:**
   If transaction fee is very high it means someone has already minted that token, try another tokenId. Also we've had a report that using a metamask account that is linked with a hardware wallet is causing issues. So we recommend using a normal metamask account.
