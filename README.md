@@ -1,4 +1,4 @@
-a# **Looterra**
+# **Looterra**
 
 Looterra is a blockchain based NFT game. Mint a unique planet with random on-chain resource nodes.
 
