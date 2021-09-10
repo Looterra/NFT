@@ -1,8 +1,24 @@
 # **Looterra**
 
-Looterra is a blockchain based NFT game. Mint a unique planet with random on-chain resource nodes. Harvest
+Looterra is a blockchain based NFT game. Mint a graphically unique planet with random on-chain resource nodes.
 
-[How to check your planet's resource nodes](#how-to-check-resource-nodes)
+- Each planet can have as many as ten nodes or as little as three.
+- Every node has a quantity modifier including: Rich, Abundant, Scarce, Poor and Common.
+  | Roll Chance| | |
+  |---------- |--- |----- |
+  | Rich | = | 5% |
+  | Abundant | = | 10% |
+  | Scarce | = | 15% |
+  | Poor | = | 30% |
+  | Common | = | 40% |
+
+* Quantity modifier affects the speed of extraction
+
+---
+
+<p>&nbsp;</p>
+
+## [Once you mint click this link to check your planet's resource nodes](#how-to-check-resource-nodes)
 
 ## **How to mint**
 
@@ -39,7 +55,7 @@ There are two types of minting available. One for the public and one for Loot NF
 
 **Public mint:**
 
-- Choose a tokenId between **8001-9900** _ Enter _.05 eth*. Fill out the fields and then press “Write”. *ignore
+- Choose a tokenId between **8001-9900** Enter _.05 eth_. Fill out the fields and then press “Write”. \*ignore
 
 - **Warning:**
   If transaction fee is very high it means someone has already minted that token, try another tokenId. Also we've had a report that using a metamask account that is linked with a hardware wallet is causing issues. So we recommend using a normal metamask account.
