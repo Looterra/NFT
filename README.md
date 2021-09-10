@@ -21,8 +21,6 @@ Looterra is a blockchain based NFT game. Mint a graphically unique planet with r
 
 <p>&nbsp;</p>
 
-## [Once you mint click this link to check your planet's resource nodes](#how-to-check-resource-nodes)
-
 ## **How to mint**
 
 ### **Step 1.**
