@@ -80,12 +80,22 @@ Fill out the fields and then press “Write”.
 
 ---
 
+# **View your planet on OpenSea**
+
+To view your minted planet head over to the [Looterra](https://opensea.io/collection/lootproject) OpenSea page.
+
+- This may take up to 30mins.
+
+---
+
 <p>&nbsp;</p>
 
 ## **How to check resource nodes**
 
 Go to the Looterra contract on etherscan:
 [Looterra Contract](https://etherscan.io/address/0xd41a65b75ba49df1fc5c7c42dbd1cb2d43530368)
+
+---
 
 ### **Step 1.**
 
