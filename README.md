@@ -37,7 +37,7 @@ There are two types of minting available. One for the public and one for Loot NF
 
 <p>&nbsp;</p>
 
-**Public mint:**(recommended)
+**Public mint:**
 
 - Choose a tokenId between **8001-9900** _ Enter _.05 eth*. Fill out the fields and then press “Write”. *ignore
 
