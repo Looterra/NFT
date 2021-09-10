@@ -15,6 +15,8 @@ Looterra is a blockchain based NFT game. Mint a graphically unique planet with r
 
 * Quantity modifier affects the speed of extraction
 
+* Resources will be used to exchange for ERC-20 tokens that represent the resource. These tokens will be tradeable with other players or used to craft and upgrade
+
 ---
 
 <p>&nbsp;</p>
