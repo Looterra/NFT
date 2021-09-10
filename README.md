@@ -1,6 +1,6 @@
 # **Looterra**
 
-Looterra is a blockchain based NFT game. Mint a graphically unique planet with random on-chain resource nodes.
+Looterra is a blockchain based NFT game. Mint a graphically unique planet with random on-chain resource nodes. There is 10,000 planets to be minted.
 
 - Each planet can have as many as ten nodes or as little as three.
 - Every node has a quantity modifier including: Rich, Abundant, Scarce, Poor and Common.
