@@ -51,6 +51,7 @@ Click "Connect to Web3" and connect your metamask wallet.
 There are two types of minting available. One for the public and one for Loot NFT holders (single/multi).
 
 - Loot holder = You own a nft from this collection [Loot (for adventurers)](https://opensea.io/collection/lootproject)
+- Public Mint = Anyone can mint these planets.
 
 <p>&nbsp;</p>
 
